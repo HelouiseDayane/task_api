@@ -19,7 +19,7 @@ Este projeto Laravel oferece um CRUD simples de tarefas, com filtro por status, 
 ### 1. Clone o projeto
 
 ```bash
-git clone https://github.com/seu-usuario/task-api.git
+git clone https://github.com/helouisedayane/task-api.git
 cd task-api
 ```
 
@@ -29,24 +29,8 @@ cd task-api
 composer install
 ```
 
-### 3. Copie o arquivo .env e configure
+### 3. Copie o arquivo .env e configure do .env.example
 
-```bash
-cp .env.example .env
-
-```
-
-### Preencha as informações de banco de dados e adicione sua chave da The Cat API:
-
-```bash
-DB_DATABASE=task-api
-DB_USERNAME=root
-DB_PASSWORD=
-
-CAT_API_KEY=live_sua_api_key_aqui
-
-
-```
 
 ## ⚙️ Rodar as Migrations
 
