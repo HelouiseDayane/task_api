@@ -120,7 +120,6 @@ php artisan l5-swagger:generate
 Acesse via navegador:
 ```bash
 http://localhost:8000/api/documentation
-
 ```
 ### 📁 Organização de Código
 
